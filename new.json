@@ -1,0 +1,40 @@
+{
+    
+    "_id": {
+    "$oid": "62a229b39039b7d34aa7918f"
+    },
+    "identifier": {
+    "ident" : "funel",
+    "link"  : "https://cdn.hackernoon.com/images/DoCzd4qd7gNF1Rzyc1IwzQiyT032-mo3q353h.jpeg" 
+  },
+  "timestamp" : {
+    "$date": "2022-06-08T10:30:48.021Z"
+  }
+
+}
+
+{
+    "_id": {
+      "$oid": "62a22a569039b7d34aa79193"
+    },
+    "identifier":{
+      "ident" : "pie",
+      "link" : "https://upload.wikimedia.org/wikipedia/commons/6/63/Pie-chart.jpg"
+    },
+    "timestamp":{
+      "$date":"2022-06-08T10:30:48.021Z"
+    }    
+  }
+
+  {
+    "_id": {
+      "$oid": "62a231969039b7d34aa79197"
+    },
+    "identifier":{
+      "ident" : "line",
+      "link" : "https://images.ctfassets.net/fevtq3bap7tj/1b8HdHH8JVH3BJYF0kFlVe/ce3f157d7bc97739f580297f865a29b0/jJ82xsss.jpeg"
+    },
+    "timestamp":{
+      "$date":"2022-06-08T10:30:48.021Z"
+    }    
+  }
